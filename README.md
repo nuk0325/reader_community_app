@@ -1,1 +1,2 @@
-# reader_community_app
+# 독서인들을 위한 커뮤니티 어플리케이션
+---
